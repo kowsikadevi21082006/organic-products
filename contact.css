@@ -1,0 +1,128 @@
+h1{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+.img1 img{
+    width: 20px;
+    height: 20px;
+    font-weight: 400;
+    position: relative;
+    left: 60px;
+    top: 65px;
+}
+.img1 h3{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.img2 img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 60px;
+    top: 45px;
+}
+.img2 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+}
+.img3 img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 60px;
+    top: 25px;
+}
+.img3 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    left: 100px;
+    bottom: 27px;
+}
+/* create a form */
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    position: relative;
+    left: 620px;
+    bottom: 250px;
+}
+#name{
+    position: relative;
+    left: 625px;
+    bottom: 230px;
+    width: 220px;
+}
+#mail{
+    position: relative;
+    left: 395px;
+    bottom: 170px;
+    width: 220px;
+}
+#number{
+    position: relative;
+    left: 165px;
+    bottom: 110px;
+    width: 220px;
+}
+#msg{
+    position: relative;
+    right: 67px;
+    bottom: 50px;
+    width: 220px;
+    height: 20px;
+}
+#btn{
+    font-size: 23px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    width: 150px;
+    position: relative;
+    left: 665px;
+    bottom: 10px;
+    text-align: center;
+    background-color: rgb(18, 150, 6);
+    color: rgb(255, 254, 254);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.content img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 20px;
+    bottom: 100px;
+    border-radius: 40px;
+    border: 4px solid black;
+}
+.content h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    left: 100px;
+    bottom: 150px;
+}
+.content h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8px;
+    font-weight: 600;
+    position: relative;
+    bottom: 160px;
+    left: 117px;
+    color: green;
+}

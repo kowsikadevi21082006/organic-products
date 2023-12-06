@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* body */
+body{
+    background-image: url("./images/natural-skincare-ingredients-manuka-honey-lemon-essential-oil-clay-balm-rosemary-herbs-natural-soap-copy-space-141270993.webp");
+    background-repeat: no-repeat;
+    position: fixed;
+    background-attachment: fixed;
+    overflow: hidden;
+    z-index: -1;
+    opacity: 1;
+    background-size: 100%;
+}
+/* header */
+h1{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 60px;
+    top: 20px;
+    color: green;
+    opacity: 1;
+}
+/* paragraph */
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    position: relative;
+    left: 115px;
+    top: 60px;
+
+}
+/* skin button */
+#skin {
+    font-size: 23px;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 25px;
+    margin-bottom: 40px;
+    width: 160px;
+    position: relative;
+    left: 110px;
+    top: 120px;
+    text-align: center;
+    background-color: rgb(18, 150, 6);
+    color: rgb(255, 254, 254);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#skin:hover{
+    background-color: crimson;
+    color: white;
+}
+/* hair button */
+#hair {
+    font-size: 23px;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 25px;
+    margin-bottom: 40px;
+    width: 160px;
+    position: relative;
+    left: 190px;
+    top: 120px;
+    text-align: center;
+    background-color: rgb(18, 150, 6);
+    color: rgb(255, 254, 254);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#hair:hover{
+    background-color: crimson;
+    color: white;
+}
+/* face button */
+#face {
+    font-size: 23px;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 25px;
+    margin-bottom: 40px;
+    width: 160px;
+    position: relative;
+    right: 220px;
+    top: 225px;
+    text-align: center;
+    background-color: rgb(18, 150, 6);
+    color: rgb(255, 254, 254);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#face:hover{
+    background-color: crimson;
+    color: white;
+}
+/* health button */
+#health {
+    font-size: 23px;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 25px;
+    margin-bottom: 40px;
+    width: 180px;
+    position: relative;
+    right: 140px;
+    top: 225px;
+    text-align: center;
+    background-color: rgb(18, 150, 6);
+    color: rgb(255, 254, 254);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#health:hover{
+    background-color: crimson;
+    color: white;
+}
+/* body button */
+#body {
+    font-size: 23px;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 25px;
+    margin-bottom: 40px;
+    width: 160px;
+    position: relative;
+    right: 440px;
+    top: 315px;
+    text-align: center;
+    background-color: rgb(18, 150, 6);
+    color: rgb(255, 254, 254);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#body:hover{
+    background-color: crimson;
+    color: white;
+}
+.content img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 980px;
+    top: 220px;
+}

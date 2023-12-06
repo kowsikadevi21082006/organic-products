@@ -1,0 +1,216 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+/* body */
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: fixed;
+    overflow: hidden;
+    z-index: -1;
+}
+/* header */
+h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    color: rgb(0, 0, 0);
+}
+/* images */
+#pic{
+    width: 220px;
+    height: 220px;
+    position: relative;
+    left: 110px;
+    top: 50px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+#pic1{
+    width: 220px;
+    height: 220px;
+    position: relative;
+    left: 180px;
+    top: 52px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+#pic2{
+    width: 220px;
+    height: 220px;
+    position: relative;
+    left: 280px;
+    top: 52px;
+    border-radius: 30px;
+    border: 20px;
+    border: 2px solid black;
+}
+/* paragraph */
+#p1{
+    position: relative;
+    left: 130px;
+    top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+#p2{
+    position: relative;
+    left: 430px;
+    bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    color: black;
+}
+#p3{
+    position: relative;
+    left: 760px;
+    bottom: 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+}
+/* span tag */
+#sp1{
+    color: green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    position: relative;
+    top: 05px;
+}
+#sp2{
+    color: green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    position: relative;
+    top: 05px;
+}
+#sp3{
+    color: green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    position: relative;
+    top: 05px;
+}
+/* add cart images */
+#img1{
+    width: 55px;
+    height: 25px;
+    position: relative;
+    padding: 4px 8px;
+    right: 650px;
+    top: 1px;
+    border-radius: 10px;
+    text-align: start;
+    background-color: rgb(219, 7, 88);
+    color: white;
+    border: none;
+}
+#ad1{
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    position: relative;
+    left: 30px;
+    bottom: 15px;
+    background-color: rgb(212, 16, 92);
+    color: white;
+}
+#img2{
+    width: 55px;
+    height: 25px;
+    position: relative;
+    padding: 4px 8px;
+    margin-bottom: 15px;
+    right: 410px;
+    top: 1px;
+    border-radius: 10px;
+    text-align: start;
+    background-color: rgb(219, 7, 88);
+    color: white;
+    border: none;
+}
+#ad2{
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    position: relative;
+    left: 30px;
+    bottom: 15px;
+    background-color: rgb(212, 16, 92);
+    color: white;
+}
+#img3{
+    width: 55px;
+    height: 25px;
+    position: relative;
+    padding: 4px 8px;
+    right: 110px;
+    top: 1px;
+    border-radius: 10px;
+    text-align: start;
+    background-color: rgb(219, 7, 88);
+    color: white;
+    border: none;
+}
+#ad3{
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    position: relative;
+    left: 30px;
+    bottom: 15px;
+    background-color: rgb(212, 16, 92);
+    color: white;
+}
+/* explore button */
+#button{
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    position: relative;
+    left: 620px;
+    bottom: 100px;
+    text-align: center;
+    background-color: rgb(235, 235, 42);
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#button:hover{
+    background-color: green;
+    color: white;
+}
+.flex{
+    display: flex;
+}
+#cart{
+    position: relative;
+    left: 450px;
+    top: 10px;
+}
+#ca{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 440px;
+    top: 7px;
+}
+.content img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 980px;
+    bottom: 180px;
+}
+
+
